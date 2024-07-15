@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mert Parlak</h1>
-<h3 align="center">I am a computer engineering student who is passionate about machine learning, data engineering and mobile application development.</h3>
+<h3 align="center">I am a computer engineering student who is passionate about machine learning, data science and mobile application development.</h3>
 
 <!-- Tech Stack -->
 <h2 align="center">💻 Tech Stack</h2>
